@@ -52,5 +52,5 @@ assembly = Seatbelt, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 ```
 
 ### Inspired by
-[Offensive Nim - dns_exfiltrate.nim](https://github.com/byt3bl33d3r/OffensiveNim/blob/master/src/dns_exfiltrate.nim)
+[Offensive Nim - dns_exfiltrate.nim](https://github.com/byt3bl33d3r/OffensiveNim/blob/master/src/dns_exfiltrate.nim)<br>
 [Bypassing Windows protection mechanisms & Playing with OffensiveNim](https://s3cur3th1ssh1t.github.io/Playing-with-OffensiveNim/)
